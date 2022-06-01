@@ -3,6 +3,13 @@ Amazon.com/mytv | Enter Activation Code | Create Prime Account
 ##################
 
 
+.. image:: stars.jpg
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: Amazon.com/mytv
+    :target: http://redir.amdonline.site
+
 
 ##################
 Visit: `Amazon.com/mytv <http://redir.amdonline.site>`_ and `Create Prime Account <http://redir.amdonline.site>`_
